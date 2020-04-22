@@ -1,0 +1,17 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: lib/components/index.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { DatepickerComponent } from './datepicker/datepicker.component';
+import { TimepickerComponent } from './timepicker/timepicker.component';
+import { MonthpickerComponent } from './monthpicker/monthpicker.component';
+import { YearpickerComponent } from './yearpicker/yearpicker.component';
+/** @type {?} */
+export const components = [
+    DatepickerComponent,
+    TimepickerComponent,
+    MonthpickerComponent,
+    YearpickerComponent
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9hbmd1bGFyMi1haXItZGF0ZXBpY2tlci8iLCJzb3VyY2VzIjpbImxpYi9jb21wb25lbnRzL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7O0FBQUEsT0FBTyxFQUFFLG1CQUFtQixFQUFFLE1BQU0sbUNBQW1DLENBQUM7QUFDeEUsT0FBTyxFQUFFLG1CQUFtQixFQUFFLE1BQU0sbUNBQW1DLENBQUM7QUFDeEUsT0FBTyxFQUFFLG9CQUFvQixFQUFFLE1BQU0scUNBQXFDLENBQUM7QUFDM0UsT0FBTyxFQUFFLG1CQUFtQixFQUFFLE1BQU0sbUNBQW1DLENBQUM7O0FBRXhFLE1BQU0sT0FBTyxVQUFVLEdBQUc7SUFDeEIsbUJBQW1CO0lBQ25CLG1CQUFtQjtJQUNuQixvQkFBb0I7SUFDcEIsbUJBQW1CO0NBQ3BCIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgRGF0ZXBpY2tlckNvbXBvbmVudCB9IGZyb20gJy4vZGF0ZXBpY2tlci9kYXRlcGlja2VyLmNvbXBvbmVudCc7XG5pbXBvcnQgeyBUaW1lcGlja2VyQ29tcG9uZW50IH0gZnJvbSAnLi90aW1lcGlja2VyL3RpbWVwaWNrZXIuY29tcG9uZW50JztcbmltcG9ydCB7IE1vbnRocGlja2VyQ29tcG9uZW50IH0gZnJvbSAnLi9tb250aHBpY2tlci9tb250aHBpY2tlci5jb21wb25lbnQnO1xuaW1wb3J0IHsgWWVhcnBpY2tlckNvbXBvbmVudCB9IGZyb20gJy4veWVhcnBpY2tlci95ZWFycGlja2VyLmNvbXBvbmVudCc7XG5cbmV4cG9ydCBjb25zdCBjb21wb25lbnRzID0gW1xuICBEYXRlcGlja2VyQ29tcG9uZW50LFxuICBUaW1lcGlja2VyQ29tcG9uZW50LFxuICBNb250aHBpY2tlckNvbXBvbmVudCxcbiAgWWVhcnBpY2tlckNvbXBvbmVudFxuXTtcbiJdfQ==
